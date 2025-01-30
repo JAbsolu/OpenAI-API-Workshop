@@ -1,0 +1,5 @@
+/Users/johnabsolu/Desktop/API_DOTNET/AIchat/obj/Debug/net9.0/AIchat.csproj.AssemblyReference.cache
+/Users/johnabsolu/Desktop/API_DOTNET/AIchat/obj/Debug/net9.0/AIchat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnabsolu/Desktop/API_DOTNET/AIchat/obj/Debug/net9.0/AIchat.AssemblyInfoInputs.cache
+/Users/johnabsolu/Desktop/API_DOTNET/AIchat/obj/Debug/net9.0/AIchat.AssemblyInfo.cs
+/Users/johnabsolu/Desktop/API_DOTNET/AIchat/obj/Debug/net9.0/AIchat.csproj.CoreCompileInputs.cache

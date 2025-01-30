@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "6AG1vs2QgWI=",
+  "success": true,
+  "projectFilePath": "/Users/johnabsolu/Desktop/API_DOTNET/AIchat/AIchat.csproj",
+  "expectedPackageFiles": [
+    "/Users/johnabsolu/.nuget/packages/openai/2.1.0/openai.2.1.0.nupkg.sha512",
+    "/Users/johnabsolu/.nuget/packages/system.clientmodel/1.2.1/system.clientmodel.1.2.1.nupkg.sha512",
+    "/Users/johnabsolu/.nuget/packages/system.diagnostics.diagnosticsource/6.0.1/system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "/Users/johnabsolu/.nuget/packages/system.memory.data/6.0.0/system.memory.data.6.0.0.nupkg.sha512",
+    "/Users/johnabsolu/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/johnabsolu/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/Users/johnabsolu/.nuget/packages/system.text.json/6.0.10/system.text.json.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
